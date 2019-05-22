@@ -1,7 +1,8 @@
 # 1 create a CDH cluster on AWS
 
 ## a. linux setup
-	i. add user
+```
+i. add user
 		1. sudo useradd training -u 3800
 	    2. sudo passwd training
 	    3. sudo groupadd skcc
@@ -20,7 +21,7 @@
 호스트3 172.31.2.62
 호스트4 172.31.15.245
 호스트5 172.31.5.127
-
+```
 
 
 ## 설치 절차
