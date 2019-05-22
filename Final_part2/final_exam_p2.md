@@ -86,7 +86,7 @@ sqoop export --connect jdbc:mysql://localhost/problem8 --username cloudera --pas
 
 ## problem 9
 ```
-CREATE EXTERNAL TABLE `problem9.solution`(                      
+CREATE EXTERNAL TABLE problem9.solution(                      
 `id` string,                                                 
 `fname` string,                                              
 `lname` string,                                              
