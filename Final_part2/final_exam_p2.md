@@ -120,6 +120,10 @@ from customer a
 join billing b on a.id = b.id;
 ```
 
+```
+add texting
+```
+
 
 
 
